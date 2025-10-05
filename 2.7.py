@@ -1,0 +1,14 @@
+x1=7
+x2=4
+result1=x1+x2
+print(result1)
+result2=x1-x2
+print(result2)
+result3=x1*x2
+print(result3)
+result4=x1/x2
+print(result4)
+result5=x1%x2
+print(result5)
+result6=x1//x2
+print(result6)
